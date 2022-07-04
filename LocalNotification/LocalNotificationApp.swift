@@ -11,7 +11,7 @@ import SwiftUI
 struct LocalNotificationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NotificationTesterView()
         }
     }
 }
